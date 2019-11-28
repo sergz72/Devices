@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Oven control</string>
+    <string name="temperature">Temperature</string>
+    <string name="time">Time, seconds</string>
+    <string name="timeleft">Time left, seconds</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="heater">Heater</string>
+    <string name="stabMode">StabMode</string>
+    <string name="programStep">Step</string>
+    <string name="ovenTemperature">Oven temperature</string>
+
+    <!-- Strings related to Settings -->
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="pref_title_server_name">Server name</string>
+    <string name="default_programs">p1:\n100:30\n215:5\n1:30\np2:\n215:5\n1:30\n</string>
+</resources>

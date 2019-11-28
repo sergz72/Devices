@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Drillironc</string>
+    <string name="status">Status</string>
+    <string name="drill">Drill</string>
+    <string name="power">Power,%</string>
+    <string name="rtime">Rise time,sec</string>
+    <string name="temperatureMin">Minimum temperature, C</string>
+    <string name="temperatureMax">Maximum temperature, C</string>
+    <string name="temperature">Temp, C</string>
+    <string name="off">OFF</string>
+    <string name="set">SET</string>
+    <string name="m1set">M1 SET</string>
+    <string name="m2set">M2 SET</string>
+    <string name="m3set">M3 SET</string>
+    <string name="heaters">Heaters</string>
+    <string name="enableNetwork">Enable network</string>
+
+    <!-- Strings related to Settings -->
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="pref_title_server_name">Server name</string>
+</resources>

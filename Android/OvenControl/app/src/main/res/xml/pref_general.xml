@@ -1,0 +1,17 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <PreferenceCategory android:title="Network connection parameters" >
+    <EditTextPreference
+      android:title="@string/pref_title_server_name"
+      android:summary="@string/pref_title_server_name"
+      android:key="serverUrl"/>
+  </PreferenceCategory>
+
+  <PreferenceCategory android:title="Programs" >
+    <EditTextPreference
+      android:title="Programs"
+      android:summary="Program codes"
+      android:key="programs"/>
+  </PreferenceCategory>
+
+</PreferenceScreen>
